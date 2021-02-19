@@ -1,0 +1,3 @@
+A command line app to apply dochy intf. It's supposed to be used to pre-build generation of the source code. 
+
+More explanations to be added...

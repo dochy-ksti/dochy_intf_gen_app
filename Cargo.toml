@@ -1,0 +1,16 @@
+[package]
+name = "dochy_intf_gen_app"
+version = "0.1.0"
+authors = ["juzu <dochy.ksti@gmail.com>"]
+edition = "2018"
+
+license = "MIT"
+description = "A command line app to apply dochy intf. It's supposed to be used to pre-build generation of the source code."
+repository = "https://github.com/dochy-ksti/dochy_intf_gen_app"
+readme = "readme.md"
+keywords = ["data", "management"]
+
+[dependencies]
+dochy_intf = "0.1.0"
+dochy_core = "0.1.0"
+structopt = "0.3.20"
